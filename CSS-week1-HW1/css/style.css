@@ -7,14 +7,14 @@ header{
   background-color: #98FB98;
 }
 nav{
-  background-color: light blue;
+  background-color: #F5F5DC;
 }
 main{
   background-color: beige;
   font-size: 20px;
 }
 footer{
-  backgroun-color: light green;
+  backgroun-color: #A8C686;
 }
 li {
     display: inline-block;
@@ -23,7 +23,7 @@ li {
 h1 {
     text-align: center;
     font-family: Georgia, serif;
-    color: navy;
+    color: #FDEEF4;
 }
 p {
     line-height: 1.6;
