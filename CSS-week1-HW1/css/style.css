@@ -1,30 +1,36 @@
-body{
-  font-family:"Courier New", Courier, monospace;;
+body {
+  font-family: "Courier New", Courier, monospace;
   font-size: 100%;
 }
 
-header{
+header {
   background-color: #98FB98;
 }
-nav{
+
+nav {
   background-color: #F5F5DC;
 }
-main{
+
+main {
   background-color: beige;
   font-size: 20px;
 }
-footer{
-  backgroun-color: #A8C686;
+
+footer {
+  background-color: #A8C686;
 }
+
 li {
-    display: inline-block;
-    width: 150px;
+  display: inline-block;
+  width: 150px;
 }
+
 h1 {
-    text-align: center;
-    font-family: Georgia, serif;
-    color: #FDEEF4;
+  text-align: center;
+  font-family: Georgia, serif;
+  color: #FDEEF4;
 }
+
 p {
-    line-height: 1.6;
+  line-height: 1.6;
 }
